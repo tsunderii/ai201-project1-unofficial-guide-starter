@@ -1,0 +1,44 @@
+[
+  {
+    "source": "sample_article_grades.txt",
+    "chunk_index": 0,
+    "char_length": 469,
+    "text": "Ceremonial vs. Culinary Matcha: What Beginners Should Know\n\nMatcha is often sold as either \"ceremonial grade\" or \"culinary grade,\"\n\nbut these labels are marketing terms and are not officially regulated in Japan. That means\n\nthe same powder could be labeled differently by two different brands.\n\nIn general, ceremonial-style matcha is smoother and less bitter, and is meant to be\n\nwhisked with just hot water and enjoyed plain. Culinary-style matcha is stronger and more"
+  },
+  {
+    "source": "sample_article_grades.txt",
+    "chunk_index": 1,
+    "char_length": 491,
+    "text": "t to be\n\nwhisked with just hot water and enjoyed plain. Culinary-style matcha is stronger and more\n\nbitter, which makes it useful for lattes, baking, and ice cream where milk and sugar balance\n\nthe flavor.\n\nFor a beginner ordering at a cafe, the practical takeaway is simple: if you want something\n\nsmooth to sip on its own, look for a ceremonial-style drink; if you want a sweeter milk-based\n\ndrink, a latte made with culinary matcha is perfectly fine and usually cheaper. Do not over-trust"
+  },
+  {
+    "source": "sample_article_grades.txt",
+    "chunk_index": 2,
+    "char_length": 191,
+    "text": "drink, a latte made with culinary matcha is perfectly fine and usually cheaper. Do not over-trust\n\nthe grade label alone — taste and sweetness level matter more for whether you will enjoy it."
+  },
+  {
+    "source": "sample_menu_mollytea.txt",
+    "chunk_index": 0,
+    "char_length": 498,
+    "text": "Molly Tea — Matcha Menu\n\nMatcha Latte 'classic' & smooth. Stone-ground matcha shaken with fresh milk.\n\nRecommended sweetness: 50%. A great starting point for beginners who find straight\n\nmatcha too bitter, because the milk softens the grassy edge.\n\nCloud Matcha — our matcha latte topped with a layer of salted cheese foam.\n\nThe salted cheese foam adds a creamy, slightly savory top layer that balances the\n\nbitterness of the matcha. Many first-timers say this is the easiest matcha drink to enjoy."
+  },
+  {
+    "source": "sample_menu_mollytea.txt",
+    "chunk_index": 1,
+    "char_length": 260,
+    "text": "es the\n\nbitterness of the matcha. Many first-timers say this is the easiest matcha drink to enjoy.\n\nJasmine Matcha: matcha blended with jasmine green tea. Lighter and more floral,\n\nwith a thinner body than the latte. Best with oat milk if you want it creamier."
+  },
+  {
+    "source": "sample_reddit_review.txt",
+    "chunk_index": 0,
+    "char_length": 421,
+    "text": "r/MatchaEverything • Posted by u/teabeginner\n\nI might get roasted for this but I think HEYTEA's matcha is actually great for beginners.\n\nTop comment (312 upvotes): Honestly agree. The Cloud Matcha is sweet and creamy and\n\ndoesn't taste bitter at all. If you're new to matcha and scared of the grassy\n\nflavor, start there. Rating: 4.5/5.\n\nReply: Disagree a little — for me the salted cheese foam was too much. I prefer the"
+  },
+  {
+    "source": "sample_reddit_review.txt",
+    "chunk_index": 1,
+    "char_length": 336,
+    "text": "ating: 4.5/5.\n\nReply: Disagree a little — for me the salted cheese foam was too much. I prefer the\n\nplain matcha latte with oat milk and 30% sugar. Still beginner friendly though, just less sweet.\n\nReply: For a STRONGER matcha taste, ask for less sugar and skip the fruit toppings.\n\nThe fruit versions bury the matcha flavor completely."
+  }
+]
