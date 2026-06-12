@@ -17,18 +17,19 @@ This knowledge is valuable because matcha cafe menus can be confusing for beginn
 
 ## Documents
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | Molly Tea Menu | Official cafe menu | https://www.mollytea.co.th/en/menu/ |
-| 2 | Molly Tea Bellevue Delivery Menu | Delivery menu / item descriptions | https://www.grubhub.com/restaurant/molly-tea-bellevue-103-bellevue-way-northeast-bellevue/13106344 |
-| 3 | Molly Tea San Gabriel Delivery Menu | Delivery menu / item descriptions | https://www.grubhub.com/restaurant/molly-tea-425-w-valley-blvd-san-gabriel/12261624 |
-| 4 | HEYTEA Cloud Matcha Latte Menu Page | Menu page / drink details | https://theheyteamenu.us/cloud-matcha-latte/ |
-| 5 | HEYTEA Supreme Matcha Latte Menu Page | Menu page / drink details | https://theheyteamenu.us/supreme-matcha-latte/ |
-| 6 | Reddit r/MatchaEverything: HEYTEA’s matcha discussion | Forum discussion / customer opinions | https://www.reddit.com/r/MatchaEverything/comments/1las3u9/i_might_get_roasted_for_this_but_i_think_heyteas/ |
-| 7 | Reddit r/bubbletea: HEYTEA favorite bubble tea spot discussion | Forum discussion / customer opinions | https://www.reddit.com/r/bubbletea/comments/1kz2jgp/heytea_is_my_favorite_bubble_tea_spot_whats_yours/ |
-| 8 | Reddit r/MatchaEverything: Sweet tasting matcha powders for beginners | Forum discussion / beginner matcha opinions | https://www.reddit.com/r/MatchaEverything/comments/1j9bw6b/sweet_tasting_matcha_powders_for_beginners/ |
-| 9 | Food & Wine: Ceremonial Grade Matcha Doesn’t Actually Exist in Japan | Article / matcha quality explanation | https://www.foodandwine.com/ceremonial-vs-culinary-matcha-8641415 |
-| 10 | Ikimatcha: Which Matcha to Buy? Ceremonial vs Culinary | Article / matcha grade guide | https://ikimatcha.co/blogs/news/which-matcha-to-buy |
+> **Revision note (final stage):** The original source list leaned on Reddit and Grubhub pages that were blocked or hard to capture reliably. I revised it toward official cafe menus and matcha-education articles. During final capture, several of even the revised sources turned out to be blocked, JavaScript-rendered, or unavailable for clean text extraction, so the **final corpus uses the 5 sources below** that I could capture as real text. I removed the empty placeholder files rather than pad the corpus, and evaluated honestly on these 5.
+
+**Final corpus (5 sources used):**
+
+| # | Source | Type | Local file (`data/raw/`) | URL |
+|---|--------|------|--------------------------|-----|
+| 1 | Molly Tea Official Menu | Official cafe menu | `01_mollytea_menu.txt` | https://www.mollytea.co.th/en/menu/ |
+| 2 | Molly Tea USA Product Categories | Official cafe menu / product descriptions | `02_mollytea_usa_products.txt` | https://usa.mollytea.com/product-categories/ |
+| 3 | HEYTEA Broadway Delivery Menu | Delivery menu / item descriptions | `06_heytea_broadway.txt` | https://postmates.com/store/heytea-broadway/EH_JrQSnUHWb6Xbjj-knWA |
+| 4 | Naoki Matcha: Ceremonial vs Culinary Grade Matcha | Article / matcha grade guide | `08_naoki_matcha_grades.txt` | https://naokimatcha.com/blogs/articles/ceremonial-grade-matcha |
+| 5 | JING Tea: Matcha Latte vs Traditional Matcha | Article / taste and texture guide | `10_jing_matcha_latte_vs_traditional.txt` | https://jingtea.com/blogs/matcha/matcha-latte-vs-traditional-matcha |
+
+**Planned sources that were dropped (could not be captured as clean text):** Molly Tea Bellevue (Grubhub, JavaScript-rendered); HEYTEA Menu 2026 and HEYTEA Supreme Matcha Latte (`theheyteamenu.us`, HTTP 403); Food & Wine ceremonial-vs-culinary article; Epicurious beginner’s guide.
 
 
 ---
@@ -75,7 +76,7 @@ If I were deploying this for real users and cost was not a constraint, I would c
 
 ## Anticipated Challenges
 
-1. One risk is noisy or inconsistent documents because many sources are based on customer opinions, Reddit comments, or reviews. Different people may describe the same matcha drink differently depending on their taste preferences. For example, one person may say a drink is too bitter while another person may say it is smooth and balanced. This could make it harder for the system to give one clear answer.
+1. One risk I anticipated was noisy or inconsistent documents, since I originally planned to include customer opinions, Reddit comments, and reviews where different people describe the same drink differently (one person calls a drink too bitter, another calls it smooth). In practice the final corpus ended up being cafe menus and matcha-education articles rather than community reviews, so this particular risk was reduced — though the menus and articles can still disagree (for example on how much milk softens bitterness).
 
 2. Another risk is off-topic retrieval or poor chunking. Some cafe menus and discussion threads may include non-matcha drinks, general boba drinks, or unrelated cafe opinions. If the chunks are too large or split badly, the system might retrieve information about the wrong drink or miss important context, such as the drink name, ingredients, or whether the drink is beginner-friendly.
 

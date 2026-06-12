@@ -1,44 +1,158 @@
 [
   {
-    "source": "sample_article_grades.txt",
+    "source": "01_mollytea_menu.txt",
     "chunk_index": 0,
-    "char_length": 469,
-    "text": "Ceremonial vs. Culinary Matcha: What Beginners Should Know\n\nMatcha is often sold as either \"ceremonial grade\" or \"culinary grade,\"\n\nbut these labels are marketing terms and are not officially regulated in Japan. That means\n\nthe same powder could be labeled differently by two different brands.\n\nIn general, ceremonial-style matcha is smoother and less bitter, and is meant to be\n\nwhisked with just hot water and enjoyed plain. Culinary-style matcha is stronger and more"
+    "char_length": 376,
+    "text": "Molly Tea — Matcha Beverages (Official Menu)\n\nPremium Jasmine Matcha\n\nIngredients: Green Tea + Matcha Cheese + Fresh Milk. Served cold or hot.\n\nFragrant jasmine milk tea served over ice, topped with a smooth layer of rich matcha cheese. Combines floral, creamy, and earthy notes.\n\nWhite Champaca Matcha\n\nIngredients: Green Tea + Matcha Cheese + Fresh Milk. Served cold or hot."
   },
   {
-    "source": "sample_article_grades.txt",
+    "source": "01_mollytea_menu.txt",
     "chunk_index": 1,
-    "char_length": 491,
-    "text": "t to be\n\nwhisked with just hot water and enjoyed plain. Culinary-style matcha is stronger and more\n\nbitter, which makes it useful for lattes, baking, and ice cream where milk and sugar balance\n\nthe flavor.\n\nFor a beginner ordering at a cafe, the practical takeaway is simple: if you want something\n\nsmooth to sip on its own, look for a ceremonial-style drink; if you want a sweeter milk-based\n\ndrink, a latte made with culinary matcha is perfectly fine and usually cheaper. Do not over-trust"
+    "char_length": 482,
+    "text": ".\n\nWhite Champaca Matcha\n\nIngredients: Green Tea + Matcha Cheese + Fresh Milk. Served cold or hot.\n\nA delicate white champaca milk tea served over ice, crowned with a rich layer of velvety matcha cheese. Pairs soft floral notes with creamy depth and earthy green tea.\n\nMatcha Jasmine Salted Cheese\n\nIngredients: Matcha Cheese + Jasmine Green Tea + Salted Cheese. Served cold.\n\nA three-layered drink featuring bold matcha cheese, fragrant jasmine tea, and smooth salted cream cheese."
   },
   {
-    "source": "sample_article_grades.txt",
+    "source": "01_mollytea_menu.txt",
     "chunk_index": 2,
-    "char_length": 191,
-    "text": "drink, a latte made with culinary matcha is perfectly fine and usually cheaper. Do not over-trust\n\nthe grade label alone — taste and sweetness level matter more for whether you will enjoy it."
+    "char_length": 339,
+    "text": "-layered drink featuring bold matcha cheese, fragrant jasmine tea, and smooth salted cream cheese.\n\nMatcha White Champaca Salted Cheese\n\nIngredients: Matcha Green + Champaca Green Tea + Salted Cheese. Served cold.\n\nRich matcha cheese foam with fragrant white champaca tea and a salted cream cheese base, balancing bold and refined flavors."
   },
   {
-    "source": "sample_menu_mollytea.txt",
+    "source": "02_mollytea_usa_products.txt",
     "chunk_index": 0,
-    "char_length": 498,
-    "text": "Molly Tea — Matcha Menu\n\nMatcha Latte 'classic' & smooth. Stone-ground matcha shaken with fresh milk.\n\nRecommended sweetness: 50%. A great starting point for beginners who find straight\n\nmatcha too bitter, because the milk softens the grassy edge.\n\nCloud Matcha — our matcha latte topped with a layer of salted cheese foam.\n\nThe salted cheese foam adds a creamy, slightly savory top layer that balances the\n\nbitterness of the matcha. Many first-timers say this is the easiest matcha drink to enjoy."
+    "char_length": 335,
+    "text": "Molly Tea USA — Matcha Products\n\nWhite Champaca Matcha\n\nA premium matcha beverage featuring carefully selected matcha powder blended with Anchor cream into a dense, silky matcha cheese. Paired with rare Bailan-scented tea, this drink combines deep matcha flavor with subtle orchid notes and a bamboo leaf aroma.\n\nPremium Jasmine Matcha"
   },
   {
-    "source": "sample_menu_mollytea.txt",
+    "source": "02_mollytea_usa_products.txt",
     "chunk_index": 1,
-    "char_length": 260,
-    "text": "es the\n\nbitterness of the matcha. Many first-timers say this is the easiest matcha drink to enjoy.\n\nJasmine Matcha: matcha blended with jasmine green tea. Lighter and more floral,\n\nwith a thinner body than the latte. Best with oat milk if you want it creamier."
+    "char_length": 337,
+    "text": "bines deep matcha flavor with subtle orchid notes and a bamboo leaf aroma.\n\nPremium Jasmine Matcha\n\nMatcha powder and Anchor cream create a smooth matcha cheese base, paired with premium Jasmine Zhenwang tea. The flavor profile layers a vibrant matcha aroma, delicate jasmine notes, and a sweet, creamy finish.\n\nPistachio Jasmine Coconut"
   },
   {
-    "source": "sample_reddit_review.txt",
+    "source": "02_mollytea_usa_products.txt",
+    "chunk_index": 2,
+    "char_length": 332,
+    "text": "brant matcha aroma, delicate jasmine notes, and a sweet, creamy finish.\n\nPistachio Jasmine Coconut\n\nA premium jasmine base combined with coconut water and pistachio cheese. Delivers a sweet coconut aroma, fresh floral notes, and subtle tea flavor with a rich, fruity brightness and a smooth finish.\n\nPistachio White Champaca Coconut"
+  },
+  {
+    "source": "02_mollytea_usa_products.txt",
+    "chunk_index": 3,
+    "char_length": 376,
+    "text": "e tea flavor with a rich, fruity brightness and a smooth finish.\n\nPistachio White Champaca Coconut\n\nWhite Champaca tea blended with coconut water and pistachio cheese. The flavor unfolds in layers: creamy and nutty top notes, delicate orchid in the middle, and a soft lingering coconut finish.\n\nAll matcha products are available for ordering through Molly Tea's online system."
+  },
+  {
+    "source": "06_heytea_broadway.txt",
     "chunk_index": 0,
-    "char_length": 421,
-    "text": "r/MatchaEverything • Posted by u/teabeginner\n\nI might get roasted for this but I think HEYTEA's matcha is actually great for beginners.\n\nTop comment (312 upvotes): Honestly agree. The Cloud Matcha is sweet and creamy and\n\ndoesn't taste bitter at all. If you're new to matcha and scared of the grassy\n\nflavor, start there. Rating: 4.5/5.\n\nReply: Disagree a little — for me the salted cheese foam was too much. I prefer the"
+    "char_length": 480,
+    "text": "HEYTEA (Broadway, New York) — Matcha Menu\n\nCloud Matcha Latte — $9.99\n\n1000 Mesh Matcha + real dairy milk + Original Cheese Cloud. A matcha latte topped with a layer of cheese cloud (a creamy cheese foam). Contains coconut and milk products.\n\nTriple Supreme Matcha Latte — $9.99\n\nMatcha Cloud + Matcha + Matcha Mochi + Matcha Jelly + real milk. A matcha-forward drink layering a matcha cheese cloud, matcha latte base, chewy matcha mochi, and matcha jelly. Contains milk products."
   },
   {
-    "source": "sample_reddit_review.txt",
+    "source": "06_heytea_broadway.txt",
     "chunk_index": 1,
+    "char_length": 144,
+    "text": "cha cheese cloud, matcha latte base, chewy matcha mochi, and matcha jelly. Contains milk products.\n\nLocation: 1407 Broadway, New York, NY 10018."
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 0,
+    "char_length": 385,
+    "text": "Naoki Matcha — Ceremonial vs Culinary Grade Matcha\n\nUnderstanding the grade classification\n\nOutside Japan, matcha consumers typically divide matcha into ceremonial and culinary grades. However, Japan itself does not use this classification system. There is no standardized, government-regulated grading system for matcha, which makes these labels inherently subjective and unregulated."
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 1,
+    "char_length": 370,
+    "text": "egulated grading system for matcha, which makes these labels inherently subjective and unregulated. The terms \"ceremonial grade\" and \"culinary grade\" are problematic because they suggest a clean binary separation that does not exist in practice. Matcha quality exists on a spectrum based on multiple factors, not two distinct categories.\n\nWhy these labels are unreliable"
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 2,
+    "char_length": 453,
+    "text": "spectrum based on multiple factors, not two distinct categories.\n\nWhy these labels are unreliable\n\nNo government or international organization regulates the \"ceremonial grade\" designation. Companies can apply their own standards without oversight, potentially charging premium prices for matcha that does not meet quality expectations. Even well-intentioned sellers struggle to define what makes something truly \"ceremonial grade.\"\n\nA practical approach"
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 3,
+    "char_length": 380,
+    "text": "ed sellers struggle to define what makes something truly \"ceremonial grade.\"\n\nA practical approach\n\nRather than relying solely on grade labels, ceremonial grade matcha is best understood as matcha suitable for drinking plain, while culinary grade works best in recipes. Both grades should still represent quality matcha appropriate for the intended use.\n\nSeven key quality factors"
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 4,
+    "char_length": 383,
+    "text": "should still represent quality matcha appropriate for the intended use.\n\nSeven key quality factors\n\n1. Production region: the best matcha comes from Japan, with renowned areas including Uji in Kyoto, Yame in Fukuoka, Shizuoka, Nishio, and Kagoshima.\n\n2. Shade-growing: the shading process is the most important step in matcha cultivation, creating the signature umami flavor profile."
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 5,
+    "char_length": 478,
+    "text": "ess is the most important step in matcha cultivation, creating the signature umami flavor profile.\n\n3. Cultivar type: while Yabukita is most common, premium cultivars like Asahi are associated with high-end matcha.\n\n4. Harvest timing: first-harvest (shincha) matcha is typically superior due to accumulated winter nutrients.\n\n5. Processing and storage: proper steaming, drying, sorting, and refrigeration preserve freshness. Ground matcha should feel as smooth as talcum powder."
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 6,
+    "char_length": 344,
+    "text": "rting, and refrigeration preserve freshness. Ground matcha should feel as smooth as talcum powder.\n\n6. Color: a vibrant green is important and is indicative of freshness. Yellowish powder suggests staleness or a low-quality leaf source.\n\n7. Taste: sample the matcha when possible before purchasing expensive varieties.\n\nUse-case recommendations"
+  },
+  {
+    "source": "08_naoki_matcha_grades.txt",
+    "chunk_index": 7,
+    "char_length": 364,
+    "text": ": sample the matcha when possible before purchasing expensive varieties.\n\nUse-case recommendations\n\nFor lattes, ceremonial grade matcha with lower bitterness reduces the amount of sweetener required. Culinary grade matcha suits baking and cooking, though market options are often overly astringent. Requesting samples before buying expensive tea is always prudent."
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 0,
+    "char_length": 355,
+    "text": "JING Tea — Matcha Latte vs Traditional Matcha\n\nCore difference\n\nTraditional matcha consists of powder whisked with hot water only, while a matcha latte combines matcha powder with steamed or frothed milk and often includes sweetness. This single addition of milk fundamentally transforms the drink's flavor, texture, and cultural context.\n\nFlavor profiles"
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 1,
+    "char_length": 434,
+    "text": "milk fundamentally transforms the drink's flavor, texture, and cultural context.\n\nFlavor profiles\n\nMatcha naturally contains umami richness, vegetal notes reminiscent of steamed greens, and a balance of sweetness with subtle bitterness. The grade — ceremonial versus culinary — significantly impacts flavor intensity. Traditional matcha presents these characteristics intensely and layered, with no dilution masking the tea's nuances."
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 2,
+    "char_length": 440,
+    "text": "a presents these characteristics intensely and layered, with no dilution masking the tea's nuances. In a matcha latte, milk proteins and fats soften the bitterness and create creaminess. Even unsweetened milk introduces natural sweetness, and many people add honey or syrups. Different milk types contribute distinct flavors — oat milk adds biscuit notes, almond milk brings nuttiness, and dairy offers classic creaminess.\n\nCaffeine content"
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 3,
+    "char_length": 385,
+    "text": "iscuit notes, almond milk brings nuttiness, and dairy offers classic creaminess.\n\nCaffeine content\n\nBoth drinks start with identical matcha powder, so they share the same base caffeine profile supported by L-theanine. A standard serving uses approximately 1–2 grams of matcha powder, delivering roughly 60–70mg of caffeine. This is comparable to black tea but less than typical coffee."
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 4,
+    "char_length": 402,
+    "text": "livering roughly 60–70mg of caffeine. This is comparable to black tea but less than typical coffee. In lattes, the caffeine spreads across a larger volume, and milk's proteins and fats may slow digestion slightly, potentially making the energy feel more gradual.\n\nTexture\n\nTraditional matcha should be thin, silky, and light, with a fine micro-foam on the surface, feeling smooth like a delicate broth."
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 5,
+    "char_length": 319,
+    "text": "hin, silky, and light, with a fine micro-foam on the surface, feeling smooth like a delicate broth. Matcha lattes are noticeably thicker and creamier due to steamed or frothed milk, creating a cappuccino-like richness. Both should remain free from gritty clumps through proper sifting and whisking.\n\nPreparation methods"
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 6,
     "char_length": 336,
-    "text": "ating: 4.5/5.\n\nReply: Disagree a little — for me the salted cheese foam was too much. I prefer the\n\nplain matcha latte with oat milk and 30% sugar. Still beginner friendly though, just less sweet.\n\nReply: For a STRONGER matcha taste, ask for less sugar and skip the fruit toppings.\n\nThe fruit versions bury the matcha flavor completely."
+    "text": "th should remain free from gritty clumps through proper sifting and whisking.\n\nPreparation methods\n\nTraditional preparation involves warming a tea bowl, sifting matcha to remove clumps, adding approximately 60–80ml of water heated to 70–80°C, then whisking briskly with a bamboo whisk in a \"W\" or \"M\" motion until smooth with fine foam."
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 7,
+    "char_length": 363,
+    "text": "80°C, then whisking briskly with a bamboo whisk in a \"W\" or \"M\" motion until smooth with fine foam. For a latte, create a matcha shot by sifting powder into a cup, adding 30–50ml hot water, and whisking until lump-free; heat and froth milk separately, then pour the frothed milk over the matcha shot, finishing with a spoon of foam on top.\n\nPhilosophy and context"
+  },
+  {
+    "source": "10_jing_matcha_latte_vs_traditional.txt",
+    "chunk_index": 8,
+    "char_length": 355,
+    "text": "frothed milk over the matcha shot, finishing with a spoon of foam on top.\n\nPhilosophy and context\n\nTraditional matcha preparation is slow, deliberate, and ritualistic. Matcha lattes offer adaptability, working for leisurely savoring or quick morning preparation. Both require water around 70–80°C to avoid scorching the powder and accentuating bitterness."
   }
 ]
