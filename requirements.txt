@@ -1,11 +1,15 @@
-sentence-transformers==3.4.1
+# NOTE: gradio>=6.9.0 needs huggingface-hub>=1.2, which in turn needs
+# transformers>=5.0 and sentence-transformers>=5.0. So adding the Gradio UI in
+# Milestone 5 forces sentence-transformers up from 3.4.1 to 5.x. The embedding
+# model (all-MiniLM-L6-v2) is unchanged, so existing embeddings stay valid.
+sentence-transformers>=5.0
+transformers>=5.0
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Query interface (Milestone 5)
+gradio>=6.9.0
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4
